@@ -14,4 +14,3 @@ __"What a typical “learning machine” does, is finding a mathematical formula
 wittt i tipicil lirning diiss .... sok inggris ente bang. wkwkwk biar keliatan kayak buku" formal aja hehe.. jadi tu paman burkov Bilang Kalau MachineLearning itu tipikal nya adalah Mencari Formula Matematis. Nah Formula Matematis ini Ketika Dikasih Training Data akan ngehasilin output yang diinginkan. Rangkaian Matematis nya akan Memodifikasi Dirinya sendiri berdasarkan Training data tadi Biar Output nya lebih Akurat. pas kita kasih input data yang berbeda tapi secara statistik sama dengan input data training tadi. itu akan ngehasilin output yang sama atau output yang secara rangkaian matematis yang kita bangun tadi itu bernilai benar 
 
 
-## Kenapa Kita Ingin Mesin itu belajar?
