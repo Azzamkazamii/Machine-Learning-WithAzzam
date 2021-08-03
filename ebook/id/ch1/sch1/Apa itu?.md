@@ -2,7 +2,8 @@
 
 ## Machine Learning 
 Kalau dari definisi tu Machine Learning adalah sub bidang dari computer science, yang fokus nya tu ke membangun suatu algoritma yang mana hanya berguna dengan mengandalkan kumpulan contoh dari beberapa fenomena-fenomena
-contoh" ini bisa dari mana aja sih, bisa dari alam... kita bikin sendiri atau bahkan kerennya ni bisa dibikin sama algoritma lain 
+
+contoh" ini bisa dari mana aja sih, bisa dari alam... kita bikin sendiri atau bahkan kerennya lagi bisa dibikin sama algoritma lain 
 
 Orang Pasti Terkagum-Kagum dengan Istilah Machine Learning, Betulan gak suatu mesin bisa belajar? Apakah mesin akan mengambil alih dunia nantinya? Apakah Kita bisa nikah sama mesin?... yang enggak dong ehe
 
