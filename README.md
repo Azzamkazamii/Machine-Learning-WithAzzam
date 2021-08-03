@@ -21,12 +21,12 @@
    -Features
    -Algorithm
 3. [The Map Of Machine Learning]
-4. [Proses Pengerjaan Machine Learning]()
+4. [Proses Pengerjaan Machine Learning]
    - Data Collecting
    - Data Cleaning 
    - Data Processing
-5. [Supervised dan Unsupervised]()
-   - [Supervised : Classification]()
-   - [Supervised : Regression]()
-   - [Unsupervised : Clustering]()
-   - [Unsupervised : Association Rules]()
+5. [Supervised dan Unsupervised]
+   - [Supervised : Classification]
+   - [Supervised : Regression]
+   - [Unsupervised : Clustering]
+   - [Unsupervised : Association Rules]
